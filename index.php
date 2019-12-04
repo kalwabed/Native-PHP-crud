@@ -80,5 +80,6 @@ if (!$gudang) {
 
     </table>
 </body>
+<script src="js/bootstrap.js"></script>
 
 </html>

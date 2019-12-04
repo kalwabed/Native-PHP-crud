@@ -85,5 +85,6 @@ if (isset($_POST["submit"])) {
         <a href="index.php">Batal</a>
     </form>
 </body>
+<script src="js/bootstrap.js"></script>
 
 </html>

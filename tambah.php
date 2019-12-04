@@ -76,5 +76,6 @@ if (isset($_POST["submit"])) {
 
     </form>
 </body>
+<script src="js/bootstrap.js"></script>
 
 </html>
