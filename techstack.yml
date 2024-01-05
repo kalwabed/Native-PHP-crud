@@ -1,7 +1,8 @@
 repo_name: kalwabed/Native-PHP-crud
 report_id: 2bd1fe426c7237a112bd611a1bd9e36b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T12:46:19+00:00'
+timestamp: '2024-01-05T08:53:56+00:00'
 requested_by: kalwabed
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/kalwabed/Native-PHP-crud
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/kalwabed/Native-PHP-crud/blob/master/db/phpdasar.sql
   detection_source: db/phpdasar.sql
   last_updated_by: kaliwa
   last_updated_on: 2019-12-04 23:44:18.000000000 Z
@@ -36,4 +39,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kalwabed/Native-PHP-crud
   detection_source: Repo Metadata
